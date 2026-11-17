@@ -30,8 +30,12 @@ Estudiante de **Ingeniería de Sistemas en EAFIT** y **Técnico en Programación
 
 ### → Proyecto destacado
 
-**🌐 Sitio web JAL Comuna 11 Laureles-Estadio** — [jalcomuna11.com](https://jalcomuna11.com)
-Proyecto de servicio social. Diseño, desarrollo y publicación **full stack** (HTML, CSS, JavaScript, PHP, MySQL) de principio a fin. En mejora y actualización continua.
+**🌐 Sitio web JAL Comuna 11 Laureles-Estadio** — [jalcomuna11.com](https://jalcomuna11.com) · [Ver código](https://github.com/Andru07623/JAL-COMUNA-11-web)
+Diseño, desarrollo y publicación **full stack** (HTML, CSS, JavaScript, Bootstrap 5, PHP, MySQL) de principio a fin.
+
+- 🤖 **Sistema de Certificado de Residencia con flujo automatizado:** solicitud en línea con adjuntos → panel administrativo para aprobar/rechazar → **generación automática del certificado en PDF** (FPDF) → **envío por correo** al ciudadano.
+- 📧 **Formulario de sugerencias con envío automático por SMTP** (PHPMailer + Brevo) y confirmación automática al ciudadano.
+- 🔐 Credenciales fuera del repositorio y manejo de datos personales conforme a la **Ley 1581 de 2012 (Habeas Data)**.
 
 ---
 
