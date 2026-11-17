@@ -42,9 +42,3 @@ Proyecto de servicio social. Diseño, desarrollo y publicación **full stack** (
 
 ---
 
-### ▪ Mis estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andru07623&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andru07623&layout=compact&theme=tokyonight&locale=es" alt="Lenguajes" height="165"/>
-</p>
