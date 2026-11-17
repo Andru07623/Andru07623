@@ -10,7 +10,7 @@ Estudiante de **Ingeniería de Sistemas en EAFIT** y **Técnico en Programación
 
 - 🎯 Buscando una oportunidad como **RPA Developer** para aplicar Python en la automatización de procesos.
 - 🌱 Autodidacta, en constante aprendizaje.
-- 🗣️ Inglés **B2** certificado (Cambridge).
+- 🗣️ Inglés **B2** certificado (Aptis General – British Council).
 - 📫 Contacto: **andresestrada1208@gmail.com** · 📱 314 743 2435
 
 ---
